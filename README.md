@@ -2,7 +2,7 @@
 
 This repo contains the source code of the [k6 documentation](https://k6.io/docs/).
 
-## Install and run in Docker
+## Install and run in Docker(to containerize stuff)
 
 This uses `docker-compose` and port `8100`.
 
